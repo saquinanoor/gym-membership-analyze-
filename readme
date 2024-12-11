@@ -1,6 +1,5 @@
 # GYM-MEMBERSHIP-ANALYSIS-WITH-SQL
-![Dashboard Penjualan Store A 2022](https://github.com/saquinanoor/Analisis-Penjualan-Store-A-Januari-Desember-2022/blob/main/Dashboard%20Penjualan%20Store%20A%202022)
-
+![1](https://github.com/saquinanoor/gym-membership-analyze-/blob/main/1.jpg)
 
 ## overview
 This project to analyze customer membership, their behavior, trend and gym service performance (Personal Trainee,  Group Lesson) for the gym business to managing and
@@ -14,7 +13,7 @@ for the development of the gym's business in managing their membership.
 
 ## Dataset
 This Dataset from Kaggle : https://www.kaggle.com/datasets/ka66ledata/gym-membership-dataset
-![Dashboard Penjualan Store A 2022](https://github.com/saquinanoor/Analisis-Penjualan-Store-A-Januari-Desember-2022/blob/main/Dashboard%20Penjualan%20Store%20A%202022)
+![4](https://github.com/saquinanoor/gym-membership-analyze-/blob/main/4.jpg)
 
 ## Dependencies
 PostgreSQL
